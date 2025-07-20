@@ -1,3 +1,4 @@
+// создан репозиторий в github
 package main
 
 import (
@@ -6,7 +7,6 @@ import (
 	"path"
 )
 
-// git
 type Entry struct {
 	Name      string
 	Surname   string
